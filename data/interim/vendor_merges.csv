@@ -1,0 +1,39 @@
+keep,canonical,alias,score,canonical_items,alias_items,note
+1,applied technology,applied technology ats,90.0,53,4,acronym appended
+1,carahsoft technology,carahsoft technologies,90.5,58,2,singular/plural
+1,shi international,shi international shi,89.5,31,1,acronym appended in parentheses in the source
+1,advanced computer,advanced computer acc,89.5,28,2,acronym appended
+1,advanced computer concepts,advance computer concepts,98.0,2,1,source typo
+0,advance management services,advanced management services,98.2,1,1,"REJECTED - ""Advance"" and ""Advanced"" Management Services may be two different firms; the documents give no way to tell"
+1,skyline technology,skyline technologies,89.5,8,1,singular/plural
+1,elections systems and software,election systems and software,98.3,9,6,spelling variant of ES&S
+1,elections systems and software,election system and software,96.6,9,1,spelling variant of ES&S
+1,elections systems and software,election systems and software es and s,88.2,9,1,spelling variant of ES&S
+1,elections systems and software es and s,election systems and software es and s period,90.5,6,1,"same company, minor spelling difference"
+1,geographic solutions,geographical solutions,95.2,9,1,source typo for Geographic Solutions
+1,conduent state and local,conduent local and state,100.0,7,1,word order differs in the source
+1,koniag services,koniag service,96.6,6,1,singular/plural
+1,creative information,creative information citi,88.9,5,2,"Creative Information Technology (CITI), acronym appended"
+1,health risk screening,health risk screening tool,89.4,4,2,same vendor; the product name leaked into the column
+1,journal technologies,journal technologoies,97.6,4,1,source typo
+1,global tel link gtl,global tel link,88.2,3,2,GTL acronym appended on the other spelling
+1,leading technology,leading technology lts,90.0,3,1,acronym appended
+1,system automation,systems automation,97.1,3,1,singular/plural
+1,caci nss formerly l 3 national security solutions,caci nns formerly l 3 national security solutions,98.0,2,1,"same company, minor spelling difference"
+1,communications electronics cei,communications electronics,92.9,2,1,CEI acronym appended on the other spelling
+1,communications electronics cei,communication electronics,90.9,2,1,singular/plural plus acronym
+1,cw professional services lochbridge,cw professional services lockbridge,97.1,2,1,source typo Lockbridge for Lochbridge
+1,envision sustainabiity tools,envision sustainability tools,98.2,1,1,source typo sustainabiity in the other spelling
+1,lexis nexis risk solutions,lexis nexis risk solutions fl,94.5,1,1,same corporate family; FL is a separate legal entity but the same vendor for procurement
+1,sli global solutions for support of,sli global solutions center for support of,90.9,1,1,same vendor; item text leaked into the column on both spellings
+0,turning point global,turning point global ost,90.9,1,1,"REJECTED - ""OST"" is a separate company; this looks like a joint venture, not a spelling variant"
+1,shi international,shi,,31,7,"hand-added: the summaries print this vendor as a bare ""SHI"" on seven items; too short for the fuzzy pass to propose"
+1,nec of america,nec,,19,3,"hand-added: bare acronym for NEC Corporation of America"
+1,nec of america,nec of,,19,2,hand-added: name truncated in the source column
+1,nec of america,nec of necam,,19,1,hand-added: NECAM is NEC Corporation of America's own acronym
+1,nec of america,nec of america remaining,,19,1,"hand-added: the action note (""remaining sub-items"") ran into the vendor column on that page"
+1,nic usa,nicusa,,2,4,hand-added: NICUSA and NIC USA are the same company
+1,nic usa,nic usa dba tyler technologies,,2,2,"hand-added: same company after its acquisition; kept together so the contract history stays in one place"
+1,creative information,creative information technology,,7,2,hand-added: full name of the same firm
+1,environmental systems research institute,esri,,3,11,"hand-added: Esri is the trading name of Environmental Systems Research Institute, Inc."
+1,dsr,dsr computer technology,,33,1,hand-added: full name of the same firm
