@@ -1,0 +1,8 @@
+measure,value,numerator,denominator
+recall_pct,73.1,837,1145
+recall_actioned_meetings_pct,78.08,837,1072
+precision_pct,83.95,837,997
+meeting_date_agreement_pct,100.0,837,837
+amount_agreement_pct,98.45,824,837
+vendor_agreement_pct,96.99,805,830
+contract_agreement_pct,51.04,320,627

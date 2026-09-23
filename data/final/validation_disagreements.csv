@@ -1,0 +1,346 @@
+field,meeting_date,item,matched_on,theirs,mine,source_pdf,source_page
+contract,2024-12-18,,vendor and amount,MDOTFIN2408,J01B5600021,2024-Dec-18-Summary.pdf,34
+contract,2024-12-18,,vendor and amount,222012A-IT,CO422943,2024-Dec-18-Summary.pdf,23
+contract,2024-12-18,,vendor and amount,2015-01,E75B7400009,2024-Dec-18-Summary.pdf,42
+contract,2024-12-18,,vendor and amount,CTR015984,COK78193,2024-Dec-18-Summary.pdf,42
+contract,2024-12-18,,vendor and amount,E00B8400029,COK74655,2024-Dec-18-Summary.pdf,35
+contract,2024-12-04,,vendor and amount,J01P4600033,CTR020404,2024-Dec-4-Summary.pdf,18
+contract,2024-12-04,,vendor and amount,OCMP-23-19745,M00B5600424,2024-Dec-4-Summary.pdf,16
+contract,2024-12-04,,vendor and amount,F50P5600342,F50P5600230,2024-Dec-4-Summary.pdf,18
+contract,2024-11-20,,vendor and amount,CTR019596,J01P4600040,2024-Nov-20-Summary.pdf,29
+contract,2024-11-20,,vendor and amount,LABOR-FY2025-008,P00B56000023,2024-Nov-20-Summary.pdf,24
+contract,2024-11-20,,vendor and amount,P00B6400009,COK71221,2024-Nov-20-Summary.pdf,24
+vendor,2024-11-20,,contract number,"Conduent State &amp; Local Solutions, Inc.","Conduent State & Local Solutions, Inc.",2024-Nov-20-Summary.pdf,29
+contract,2024-11-20,,vendor and amount,F50P5600312,F50P5600127,2024-Nov-20-Summary.pdf,26
+contract,2024-10-30,,vendor and amount,SS-OIT-FY25-001,J02P4600118,2024-Oct-30-Summary.pdf,19
+contract,2024-10-30,,vendor and amount,AGY-21-037-IT,COK69714,2024-Oct-30-Summary.pdf,19
+contract,2024-10-30,,vendor and amount,AGY-21-025-IT,COK07899,2024-Oct-30-Summary.pdf,19
+contract,2024-10-30,,vendor and amount,MDH/OCMP# 23-19471,M00B4600492,2024-Oct-30-Summary.pdf,20
+contract,2024-10-16,,vendor and amount,OIT-IFB-2025-002,J02P4600098,2024-Oct-16-Summary.pdf,17
+contract,2024-10-16,,vendor and amount,AGY-21-002-SR,COK49966,2024-Oct-16-Summary.pdf,18
+contract,2024-10-16,,vendor and amount,AGY-21-046-IT,COK60010,2024-Oct-16-Summary.pdf,18
+contract,2024-10-16,,vendor and amount,ITFY240058,Q00B5600012,2024-Oct-16-Summary.pdf,17
+contract,2024-10-16,,vendor and amount,CTR019472,S00B5600029,2024-Oct-16-Summary.pdf,17
+amount,2024-10-02,,contract number,15600000.00,31200000.0,2024-Oct-2-Summary.pdf,22
+vendor,2024-10-02,,contract number,Nava Public Benefit Corporation,".. Public Benefit Solutions, LLC",2024-Oct-2-Summary.pdf,22
+contract,2024-10-02,,vendor and amount,CTR018858,S00B5600006,2024-Oct-2-Summary.pdf,23
+contract,2024-09-11,,vendor and amount,DORS FY22-0012,R00B3600083,2024-Sep-11-Summary.pdf,28
+contract,2024-09-11,,vendor and amount,CTR019056,W00P5600373,2024-Sep-11-Summary.pdf,27
+contract,2024-09-11,,vendor and amount,Q00B8400021,COK62616,2024-Sep-11-Summary.pdf,28
+contract,2024-09-11,,vendor and amount,OTHSMDTHK-23-066-C,N00P4600659,2024-Sep-11-Summary.pdf,30
+contract,2024-08-28,,vendor and amount,FY25-OIT-002,R00B4600190,2024-Aug-28-Summary.pdf,36
+contract,2024-08-28,,vendor and amount,MA-2868-0000,COK48774,2024-Aug-28-Summary.pdf,36
+contract,2024-08-07,,vendor and amount,AGY-24-009-IT,J05B5600001,2024-Aug-7-Summary.pdf,27
+contract,2024-08-07,,vendor and amount,OTHS/OTHS-25-013-H,N00B5600067,2024-Aug-7-Summary.pdf,34
+contract,2024-08-07,,vendor and amount,F10B5600002,001B5600102,2024-Aug-7-Summary.pdf,27
+contract,2024-07-17,,vendor and amount,222012B-IT,CO416646,2024-Jul-17-Summary.pdf,16
+contract,2024-07-17,,vendor and amount,HSCRC-18-004,COK50249,2024-Jul-17-Summary.pdf,26
+contract,2024-07-17,,vendor and amount,F50B0600045-35/F50P5600007,50P5600007,2024-Jul-17-Summary.pdf,30
+contract,2024-07-17,,vendor and amount,OTHS/MDTHK-25-002-C,N00P5600039,2024-Jul-17-Summary.pdf,31
+contract,2024-07-17,,vendor and amount,001B2600465,001B3600087,2024-Jul-17-Summary.pdf,26
+contract,2024-07-03,,vendor and amount,D38B4600006,COK44732,2024-Jul-3-Summary.pdf,37
+contract,2024-07-03,,vendor and amount,HSCRC-17-034,COK49996,2024-Jul-3-Summary.pdf,37
+contract,2024-07-03,,vendor and amount,BPM035346,COK53160,2024-Jul-3-Summary.pdf,38
+contract,2024-06-05,,vendor and amount,J01B1600006,COK41233,2024-Jun-5-Summary.pdf,38
+contract,2024-06-05,,vendor and amount,SS-OIT-FY24-008,J02P4600055,2024-Jun-5-Summary.pdf,37
+contract,2024-06-05,,vendor and amount,P00B1600073,COK43518,2024-Jun-5-Summary.pdf,38
+contract,2024-06-05,,vendor and amount,Q00B9400090,COK41200,2024-Jun-5-Summary.pdf,38
+contract,2024-06-05,,vendor and amount,F50B4600043,F50B4600040,2024-Jun-5-Summary.pdf,41
+contract,2024-06-05,,vendor and amount,F50B2600050,OK45134,2024-Jun-5-Summary.pdf,37
+vendor,2024-06-05,,contract number,"Ernst &amp; Young, LLP","Ernst & Young, LLP",2024-Jun-5-Summary.pdf,41
+vendor,2024-06-05,,contract number,Qlarion Inc.,Olarion Inc.,2024-Jun-5-Summary.pdf,41
+contract,2024-06-05,,vendor and amount,24-IT-HQ-008,V00B4600027,2024-Jun-5-Summary.pdf,36
+contract,2024-06-05,,vendor and amount,21-IT-001,COK46623,2024-Jun-5-Summary.pdf,39
+contract,2024-06-05,,vendor and amount,F10B0600060,COK48965,2024-Jun-5-Summary.pdf,37
+contract,2024-06-05,,vendor and amount,E00B8400029,COK51075,2024-Jun-5-Summary.pdf,40
+contract,2024-05-15,,vendor and amount,218035-IT,CO415500,2024-May-15-Summary.pdf,12
+contract,2024-05-15,,vendor and amount,MA-2257-0000,COK39034,2024-May-15-Summary.pdf,24
+contract,2024-05-15,,vendor and amount,MDOTTS2409,J01B4600023,2024-May-15-Summary.pdf,23
+contract,2024-05-15,,vendor and amount,MDOTTS2211,J01B4600029,2024-May-15-Summary.pdf,23
+contract,2024-05-15,,vendor and amount,FY2021-009,COK43022,2024-May-15-Summary.pdf,24
+contract,2024-05-15,,vendor and amount,Q00P4604137,Q00B4600025,2024-May-15-Summary.pdf,26
+contract,2024-05-15,,vendor and amount,060B5400014,COK33609,2024-May-15-Summary.pdf,24
+contract,2024-05-15,,vendor and amount,F50B4400043,COK46910,2024-May-15-Summary.pdf,25
+contract,2024-05-15,,vendor and amount,060B8400039,COK44141,2024-May-15-Summary.pdf,23
+contract,2024-05-01,,vendor and amount,D25P4600034,F50B4600031,2024-May-1-Summary.pdf,19
+contract,2024-04-03,,vendor and amount,HQOTTS2301,01P4600113,2024-Apr-3-Summary.pdf,41
+contract,2024-04-03,,vendor and amount,OPS-23-013-EQ,J05B4600007,2024-Apr-3-Summary.pdf,40
+contract,2024-04-03,,vendor and amount,FY24-OIT-002,R00B4600005,2024-Apr-3-Summary.pdf,41
+contract,2024-04-03,,vendor and amount,HQOTTS2344,J01P4600114,2024-Apr-3-Summary.pdf,41
+contract,2024-04-03,,vendor and amount,MDH/OCMP #24-19699,M00B4600584,2024-Apr-3-Summary.pdf,39
+contract,2024-04-03,,vendor and amount,M00B060037,COK35955,2024-Apr-3-Summary.pdf,42
+contract,2024-04-03,,vendor and amount,OCMP-24-22048,M00B3600618,2024-Apr-3-Summary.pdf,40
+contract,2024-04-03,,vendor and amount,HSCRC-17-034,COK27787,2024-Apr-3-Summary.pdf,40
+contract,2024-04-03,,vendor and amount,15-14013,COK33407,2024-Apr-3-Summary.pdf,40
+contract,2024-04-03,,vendor and amount,Q00B1600037,COK37372,2024-Apr-3-Summary.pdf,42
+contract,2024-04-03,,vendor and amount,060B3490012,COK38300,2024-Apr-3-Summary.pdf,42
+contract,2024-03-13,,vendor and amount,SRA 20-08,G20B4600009,2024-Mar-13-Summary.pdf,24
+contract,2024-03-13,,vendor and amount,R00B0600035,COK36197,2024-Mar-13-Summary.pdf,24
+contract,2024-03-13,,vendor and amount,K00B7400059,COK27202,2024-Mar-13-Summary.pdf,24
+contract,2024-02-28,,vendor and amount,AGY-23-056-IT,J05B4600005,2024-Feb-28-Summary.pdf,17
+contract,2024-02-28,,vendor and amount,OCMP 21-18809,COK36000,2024-Feb-28-Summary.pdf,18
+contract,2024-02-14,,vendor and amount,219031-IT,CO413586,2024-Feb-14-Summary.pdf,12
+contract,2024-02-14,,vendor and amount,F50B0600039-56,F50B0600039,2024-Feb-14-Summary.pdf,20
+contract,2024-02-14,,vendor and amount,F50B0600039-58,F50B0600039,2024-Feb-14-Summary.pdf,20
+contract,2024-01-31,,vendor and amount,AGY-21-026-IT,J05B4600006,2024-Jan-31-Summary.pdf,19
+contract,2024-01-31,,vendor and amount,D01B3600034,COK32267,2024-Jan-31-Summary.pdf,20
+contract,2024-01-31,,vendor and amount,060B8400023,COK32667,2024-Jan-31-Summary.pdf,20
+contract,2024-01-17,,vendor and amount,J01P4600005,RITM0292428,2024-Jan-17-Summary.pdf,18
+contract,2024-01-17,,vendor and amount,J01B4600002,JO1B4600002,2024-Jan-17-Summary.pdf,18
+contract,2024-01-17,,vendor and amount,F50B4400105,COK33048,2024-Jan-17-Summary.pdf,17
+contract,2024-01-17,,vendor and amount,OTHS/MDTHK-24-082-C,N00P4601783,2024-Jan-17-Summary.pdf,18
+contract,2024-01-17,,vendor and amount,060B3490012,COK34128,2024-Jan-17-Summary.pdf,18
+contract,2024-01-03,,vendor and amount,MSLA-0005,R11B4600001,2024-Jan-3-Summary.pdf,28
+contract,2024-01-03,,vendor and amount,W00P4601034,BPM040450,2024-Jan-3-Summary.pdf,30
+contract,2024-01-03,,vendor and amount,OCMP # 23-20816,M00B4600458,2024-Jan-3-Summary.pdf,29
+contract,2023-11-29,,vendor and amount,W00B1600002,COK29405,2023-Nov-29-Summary.pdf,24
+contract,2023-11-29,,vendor and amount,W00B3600064,001B0600162,2023-Nov-29-Summary.pdf,25
+contract,2023-11-29,,vendor and amount,001B0600386,COJ92991,2023-Nov-29-Summary.pdf,23
+contract,2023-11-29,,vendor and amount,OTHS/MDTHK-24- 069-C,N00P4601356,2023-Nov-29-Summary.pdf,25
+contract,2023-11-29,,vendor and amount,OTHS-MDTHK-24-073-C,N00P4601375,2023-Nov-29-Summary.pdf,25
+contract,2023-11-29,,vendor and amount,S00R2600004,S00B4600006,2023-Nov-29-Summary.pdf,23
+contract,2023-11-29,,vendor and amount,CTR015262,F10B4600010,2023-Nov-29-Summary.pdf,22
+contract,2023-11-29,,vendor and amount,E00B8400029,COJ84378,2023-Nov-29-Summary.pdf,23
+contract,2023-11-08,,vendor and amount,OPS-21-050-IT,J05B3600011,2023-Nov-8-Summary.pdf,22
+contract,2023-11-08,,vendor and amount,F50B0600045-23,F50B2600034,2023-Nov-8-Summary.pdf,23
+vendor,2023-11-08,,contract number,"Conduent State &amp; Local Solutions, Inc.","(B) Conduent State & Local Solutions, Inc.",2023-Nov-8-Summary.pdf,23
+contract,2023-11-08,,vendor and amount,F50P4600004,F50B4600004,2023-Nov-8-Summary.pdf,22
+contract,2023-11-08,,vendor and amount,OTHS-MDTHK-23-066-C,N00P4600659,2023-Nov-8-Summary.pdf,23
+contract,2023-11-08,,vendor and amount,T00R3601645,T00B4600006,2023-Nov-8-Summary.pdf,21
+contract,2023-10-25,,vendor and amount,CTR005085,D38B4600006,2023-Oct-25-Summary.pdf,32
+contract,2023-10-25,,vendor and amount,CTR015425,D38B4600001,2023-Oct-25-Summary.pdf,32
+contract,2023-10-25,,vendor and amount,CTR015087,J01P2600113,2023-Oct-25-Summary.pdf,33
+contract,2023-10-25,,vendor and amount,F50B0600047,COK24571,2023-Oct-25-Summary.pdf,32
+contract,2023-10-04,,vendor and amount,CTR015765,J05P3600037,2023-Oct-4-Summary.pdf,26
+contract,2023-10-04,,vendor and amount,ITFY23001,Q00B4600024,2023-Oct-4-Summary.pdf,25
+contract,2023-10-04,,vendor and amount,CTR015644,F50B4600015,2023-Oct-4-Summary.pdf,32
+contract,2023-10-04,,vendor and amount,CTR015846,F50B4600011,2023-Oct-4-Summary.pdf,26
+contract,2023-10-04,,vendor and amount,CTR015847,F50P4600110,2023-Oct-4-Summary.pdf,29
+contract,2023-10-04,,vendor and amount,CTR014947,F50P4600056,2023-Oct-4-Summary.pdf,29
+contract,2023-10-04,,vendor and amount,CTR015017,N00B4600028,2023-Oct-4-Summary.pdf,31
+contract,2023-10-04,,vendor and amount,F50B0600039-49,F50B2600008,2023-Oct-4-Summary.pdf,26
+contract,2023-09-20,,vendor and amount,R00B2600015,COK20719,2023-Sep-20-Summary.pdf,24
+contract,2023-09-20,,vendor and amount,BPM028416,P00B3600033,2023-Sep-20-Summary.pdf,23
+contract,2023-09-20,,vendor and amount,OCMP-22-18251,M00B4600179,2023-Sep-20-Summary.pdf,24
+contract,2023-09-20,,vendor and amount,MDEM24-001,D52B460001,2023-Sep-20-Summary.pdf,23
+contract,2023-09-20,,vendor and amount,MDEM24-002,D52B4600002,2023-Sep-20-Summary.pdf,30
+contract,2023-09-20,,vendor and amount,MDEM24-002,D52B4600002,2023-Sep-20-Summary.pdf,30
+contract,2023-09-20,,vendor and amount,CTR015534,J00P3600011,2023-Sep-20-Summary.pdf,26
+contract,2023-09-20,,vendor and amount,F50B0600039-22,F50B2600008,2023-Sep-20-Summary.pdf,25
+contract,2023-09-06,,vendor and amount,CTR015425,D38B4600001,2023-Sep-6-Summary.pdf,23
+contract,2023-09-06,,vendor and amount,R00R2600084,R00B4600007,2023-Sep-6-Summary.pdf,23
+contract,2023-09-06,,vendor and amount,CTR015277,J01B4600011,2023-Sep-6-Summary.pdf,23
+contract,2023-09-06,,vendor and amount,CTR015574,P00B4600004,2023-Sep-6-Summary.pdf,23
+contract,2023-09-06,,vendor and amount,CTR014673,N00B4600015,2023-Sep-6-Summary.pdf,25
+contract,2023-09-06,,vendor and amount,OTHS/MDTHK-24-003-C,N00P4600235,2023-Sep-6-Summary.pdf,24
+contract,2023-09-06,,vendor and amount,CTR014878,001B3600044,2023-Sep-6-Summary.pdf,22
+contract,2023-09-06,,vendor and amount,CTR015295,E00B3600035,2023-Sep-6-Summary.pdf,22
+contract,2023-09-06,,vendor and amount,BCCC-20-020,COK21753,2023-Sep-6-Summary.pdf,2
+contract,2023-08-23,,vendor and amount,CTR015145,J01P2600101,2023-Aug-23-Summary.pdf,29
+contract,2023-08-23,,vendor and amount,V-HQ-21013-IT,COK04795,2023-Aug-23-Summary.pdf,28
+contract,2023-08-23,,vendor and amount,CTR005124,COK07899,2023-Aug-23-Summary.pdf,27
+contract,2023-08-23,,vendor and amount,CTR015137,J01B4600007,2023-Aug-23-Summary.pdf,27
+contract,2023-08-23,,vendor and amount,F50B0600039-50,F50B2600008,2023-Aug-23-Summary.pdf,29
+contract,2023-08-23,,vendor and amount,060B1400059,COK22054,2023-Aug-23-Summary.pdf,33
+contract,2023-08-23,,vendor and amount,CTR014597,K00B4600015,2023-Aug-23-Summary.pdf,26
+contract,2023-08-23,,vendor and amount,CTR014913,D21B4600003,2023-Aug-23-Summary.pdf,27
+contract,2023-07-19,,vendor and amount,MDOTTS2300,J01B4600005,2023-Jul-19-Summary.pdf,23
+amount,2023-07-19,,contract number,7996040.00,25196040.0,2023-Jul-19-Summary.pdf,24
+contract,2023-07-19,,vendor and amount,OPASS 16-15772,COK03499,2023-Jul-19-Summary.pdf,24
+contract,2023-07-19,,vendor and amount,OTHS/OTHS-19-013-A3,COK07357,2023-Jul-19-Summary.pdf,23
+contract,2023-07-05,,vendor and amount,COK18968,E75B7400009,2023-Jul-5-Summary.pdf,29
+contract,2023-07-05,,vendor and amount,CTR014759,COK02779,2023-Jul-5-Summary.pdf,26
+contract,2023-07-05,,vendor and amount,MDH/ OPASS 14-13986,M00B8400027,2023-Jul-5-Summary.pdf,26
+contract,2023-07-05,,vendor and amount,CTR014442,Q00B3600001,2023-Jul-5-Summary.pdf,25
+contract,2023-06-21,,vendor and amount,C81-2017-1,C81B4600001,2023-Jun-21-Summary.pdf,28
+amount,2023-06-21,,contract number,31041141.00,37348164.0,2023-Jun-21-Summary.pdf,30
+contract,2023-06-21,,vendor and amount,223008-IT,P223008,2023-Jun-21-Summary.pdf,14
+contract,2023-06-21,,vendor and amount,CTR012903,J01B4600001,2023-Jun-21-Summary.pdf,27
+contract,2023-06-21,,vendor and amount,CTR002941,P00B4600001,2023-Jun-21-Summary.pdf,28
+contract,2023-06-21,,vendor and amount,21-IT-001,COK02069,2023-Jun-21-Summary.pdf,29
+contract,2023-06-21,,vendor and amount,CTR014042,BPM037385,2023-Jun-21-Summary.pdf,27
+contract,2023-06-07,,vendor and amount,ITFY230003,Q00B3600002,2023-Jun-7-Summary.pdf,41
+vendor,2023-06-07,,contract number,"Ernst &amp; Young, LLP","Ernst and Young, LLP",2023-Jun-7-Summary.pdf,43
+contract,2023-06-07,,vendor and amount,CTR014025,S00B3600003,2023-Jun-7-Summary.pdf,42
+contract,2023-05-17,,vendor and amount,LABOR-FY2021-009,COJ92714,2023-May-17-Summary.pdf,27
+contract,2023-05-17,,vendor and amount,MDH/OCMP 23-00030,M00B3600601,2023-May-17-Summary.pdf,26
+contract,2023-05-17,,vendor and amount,MDH/OPASS #21-18821,COK00628,2023-May-17-Summary.pdf,26
+contract,2023-05-17,,vendor and amount,F50B0600039-36,F50B2600008,2023-May-17-Summary.pdf,27
+contract,2023-05-17,,vendor and amount,V00B1600065,COJ96804,2023-May-17-Summary.pdf,26
+contract,2023-05-03,,vendor and amount,D99B2600001,COK00126,2023-May-3-Summary.pdf,24
+vendor,2023-05-03,,contract number,"Conduent State &amp; Local Solutions, Inc.","Conduent State & Local Solutions, Inc.",2023-May-3-Summary.pdf,24
+contract,2023-05-03,,vendor and amount,F50B0600039- 32,F50B2600008,2023-May-3-Summary.pdf,25
+contract,2023-05-03,,vendor and amount,F50B0600039-40,F50B2600008,2023-May-3-Summary.pdf,25
+contract,2023-05-03,,vendor and amount,F50B0600039-41,F50B2600008,2023-May-3-Summary.pdf,25
+contract,2023-05-03,,vendor and amount,OTHS-MDTHK-23-034-C,N00P3602447,2023-May-3-Summary.pdf,25
+contract,2023-05-03,,vendor and amount,OTHS-MDTHK-23-019-C,N00P3602657,2023-May-3-Summary.pdf,25
+contract,2023-05-03,,vendor and amount,CTR013291,REQ002891,2023-May-3-Summary.pdf,24
+contract,2023-04-19,,vendor and amount,MDOTTS2323,J01B3600035,2023-Apr-19-Summary.pdf,26
+contract,2023-04-19,,vendor and amount,OTHS/MDTHK-22-002-A1,COJ92871,2023-Apr-19-Summary.pdf,26
+contract,2023-04-19,,vendor and amount,S00B2600064,C0K00983,2023-Apr-19-Summary.pdf,31
+contract,2023-04-19,,vendor and amount,S00B3600004,S00B3600032,2023-Apr-19-Summary.pdf,26
+contract,2023-04-19,,vendor and amount,CTR012098,001B3600339,2023-Apr-19-Summary.pdf,32
+contract,2023-04-19,,vendor and amount,001B0600408,COJ82430,2023-Apr-19-Summary.pdf,31
+contract,2023-04-05,,vendor and amount,CTR012159,G20B3600007,2023-Apr-5-Summary.pdf,28
+contract,2023-04-05,,vendor and amount,J05B5400047,COJ91855,2023-Apr-5-Summary.pdf,30
+contract,2023-04-05,,vendor and amount,Q-419163-44840657JC,COJ96721,2023-Apr-5-Summary.pdf,28
+amount,2023-04-05,,contract number,772478.24,2999516.57,2023-Apr-5-Summary.pdf,31
+contract,2023-04-05,,vendor and amount,CTR008576-1,COJ94736,2023-Apr-5-Summary.pdf,28
+contract,2023-03-15,,vendor and amount,CTR011837,J01B3600021,2023-Mar-15-Summary.pdf,26
+contract,2023-03-01,,vendor and amount,CTR011922,R00B3600083,2023-Mar-01-Summary.pdf,21
+contract,2023-02-15,,vendor and amount,CTR005523-1,P00B3600029,2023-Feb-15-Summary.pdf,27
+contract,2023-02-15,,vendor and amount,CTR012495,060B0600016,2023-Feb-15-Summary.pdf,28
+contract,2023-02-15,,vendor and amount,S00R2600005,S00B3600028,2023-Feb-15-Summary.pdf,27
+contract,2023-02-15,,vendor and amount,CTR008421-2,060B6400007,2023-Feb-15-Summary.pdf,28
+contract,2023-01-25,,vendor and amount,MDH/OPASS #23-00050,COJ85778,2023-Jan-25-Summary.pdf,23
+contract,2023-01-25,,vendor and amount,Q00B9400090,COJ51901,2023-Jan-25-Summary.pdf,24
+contract,2023-01-04,,vendor and amount,DLLR-FY2014-014,COJ78956,2023-Jan-4-Summary.pdf,18
+contract,2023-01-04,,vendor and amount,MDH/OCMP# 23-19471,M00B3600415,2023-Jan-4-Summary.pdf,17
+contract,2023-01-04,,vendor and amount,S00R2600052,S00B3600010,2023-Jan-4-Summary.pdf,17
+contract,2026-07-22,DGS 50-IT,item number,060B2490023; M00B0600029,COL34540,2026-Jul-22-Summary.pdf,30
+contract,2026-07-01,MDOT 14-IT-OPT,item number,060B2490023,COL38236,2026-Jul-1-Summary.pdf,36
+vendor,2026-06-18,MDOT 11-IT,item number,"P&amp;C Insurance Systems, Inc.","P&C Insurance Systems, Inc.",2026-Jun-18-Summary.pdf,16
+contract,2026-06-18,MDOT 11-IT,item number,AG-26-2000-IT,AG262000IT,2026-Jun-18-Summary.pdf,16
+contract,2026-06-18,MDOT 10-IT-MOD,item number,AGY-21-002-SR,CO435014,2026-Jun-18-Summary.pdf,15
+contract,2026-06-03,DGS 34-IT-MOD,item number,F50B5600013,COL35157,2026-Jun-3-Summary.pdf,23
+contract,2026-06-03,DGS 33-IT-MOD,item number,R00B2600106,COL34714,2026-Jun-3-Summary.pdf,22
+contract,2026-06-03,DGS 32-IT-OPT,item number,D01B3600034,COL33702,2026-Jun-3-Summary.pdf,22
+contract,2026-06-03,DGS 31-IT-OPT,item number,C81-2025-1,C81B6600002,2026-Jun-3-Summary.pdf,22
+contract,2026-05-20,MDOT 3-IT,item number,MOL-26-006-IT,MOL26006IT,2026-May-20-Summary.pdf,14
+contract,2026-05-20,MDOT 12-IT,item number,SHA-RFP-FY25-002,J2B5600017,2026-May-20-Summary.pdf,16
+contract,2026-05-20,DGS 42-IT,item number,COMP FY26,E00B6600012,2026-May-20-Summary.pdf,27
+contract,2026-05-06,DGS 35-IT,item number,CTR026400,C90B6600004,2026-May-6-Summary.pdf,23
+contract,2026-04-22,MDOT 26-IT,item number,060B2490023,J2B4600023,2026-Apr-22-Summary.pdf,20
+contract,2026-04-22,DGS 58-IT,item number,MDH/OCMP# 26-25183,M00B6600056,2026-Apr-22-Summary.pdf,35
+contract,2026-04-22,DGS 51-IT-OPT,item number,F10B4600006,COL31452,2026-Apr-22-Summary.pdf,33
+contract,2026-04-01,DGS 98-IT,item number,CTR025603,Q00B6600055,2026-Apr-1-Summary.pdf,40
+contract,2026-04-01,DGS 86-IT 2.1,vendor and amount,060B2490021,M00P6601550,2026-Apr-1-Summary.pdf,36
+contract,2026-04-01,DGS 85-IT-MOD,item number,MDH/OPASS 20-18842,COL24666,2026-Apr-1-Summary.pdf,36
+contract,2026-04-01,DGS 84-IT-MOD,item number,060B5400007,COL30990,2026-Apr-1-Summary.pdf,36
+contract,2026-04-01,DGS 82-IT-MOD,item number,BPM035346,COL30876,2026-Apr-1-Summary.pdf,35
+contract,2026-04-01,DGS 81-IT-OPT,item number,MDH/OCMP# 23-18610,COL29958,2026-Apr-1-Summary.pdf,35
+vendor,2026-04-01,DGS 80-IT,item number,"Watch Systems, LLC d/b/a OffenderWatch","Watch Systems, LLC dba OffenderWatch",2026-Apr-1-Summary.pdf,34
+contract,2026-04-01,DGS 79-IT,item number,CTR025620,S00B6600045,2026-Apr-1-Summary.pdf,34
+contract,2026-03-18,DGS 25-IT 1.1,vendor and amount,060B2490022,COL27974,2026-Mar-18-Summary.pdf,23
+contract,2026-03-18,DGS 24-IT-MOD,item number,F50B4600026,COL24893,2026-Mar-18-Summary.pdf,23
+amount,2026-03-04,DGS 35-IT,item number,371250.00,953370.0,2026-Mar-4-Summary.pdf,25
+vendor,2026-03-04,DGS 35-IT,item number,"4A Consulting, LLC",".. Consulting, LLC COL26444 Enterprise-Wide COL26446 Inc. Corporation COL26472",2026-Mar-4-Summary.pdf,25
+contract,2026-02-18,MDOT 13-IT.1.1,vendor and amount,J01B4600038,J1B4600038,2026-Feb-18-Summary.pdf,19
+contract,2026-02-18,DGS 91-IT,item number,MDH/OCMP-25-25305,M00P6603077,2026-Feb-18-Summary.pdf,45
+contract,2026-02-18,DGS 81-IT.2.1,vendor and amount,F50B0600039-29,F50B2600008,2026-Feb-18-Summary.pdf,41
+contract,2026-02-18,DGS 79-IT-MOD,item number,MDH/OCMP#24-22198,COL27579,2026-Feb-18-Summary.pdf,40
+contract,2026-02-18,DGS 78-IT-OPT,item number,OCMP # 23-20816,COL25978,2026-Feb-18-Summary.pdf,40
+contract,2026-02-18,DGS 77-IT,item number,CTR025149,Q00B6600059,2026-Feb-18-Summary.pdf,40
+contract,2026-01-28,MDOT 15-IT-OPT/MOD,vendor and amount,J05B5400047,CO432540,2026-Jan-28-Summary.pdf,21
+contract,2026-01-28,DGS 43-IT-OPT,item number,S00B3600004,COL23754,2026-Jan-28-Summary.pdf,33
+contract,2026-01-28,DGS 42-IT,item number,COMP FY26-28,E00B6600010,2026-Jan-28-Summary.pdf,33
+contract,2026-01-07,MDOT 3-IT-MOD,item number,MA-2868-0000,COL24997,2026-Jan-7-Summary.pdf,16
+contract,2026-01-07,MDOT 2-IT-MOD,item number,MA-2257-0000,COL24999,2026-Jan-7-Summary.pdf,15
+vendor,2026-01-07,DGS 52-IT,item number,"A&amp;T Systems, Inc.","A&T Systems, Inc.",2026-Jan-7-Summary.pdf,34
+contract,2026-01-07,DGS 52-IT,item number,SSATS-OM-10282025,E20B6600006,2026-Jan-7-Summary.pdf,34
+contract,2026-01-07,DGS 41-IT-MOD,item number,E00B8400029,COL24100,2026-Jan-7-Summary.pdf,30
+contract,2026-01-07,DGS 40-IT-MOD,item number,060B8400023,COL024037,2026-Jan-7-Summary.pdf,29
+contract,2026-01-07,DGS 39-IT,item number,CTR024391,Q00P6601661,2026-Jan-7-Summary.pdf,29
+contract,2025-12-17,MDOT 8-IT,item number,AG-26-2004-IT,AG262004IT,2025-Dec-17-Summary.pdf,29
+contract,2025-12-17,MDOT 19-IT-MOD,item number,J01P9400042,CO432463,2025-Dec-17-Summary.pdf,32
+contract,2025-12-17,DGS 58-IT,item number,F50B0600039/TOR #F50B0600039-68,F50B2600008,2025-Dec-17-Summary.pdf,52
+contract,2025-12-17,DGS 44-IT 3.1,vendor and amount,060B2490021/OTHS/OTHS-26-018,N00B6600139,2025-Dec-17-Summary.pdf,44
+contract,2025-12-17,DGS 44-IT 2.1,vendor and amount,F50B0600039/F50B0600039-76,F50B2600008,2025-Dec-17-Summary.pdf,44
+contract,2025-12-17,DGS 44-IT 1.2,vendor and amount,060B2490023/OTHS/EBT-22-043-A2,COL22922,2025-Dec-17-Summary.pdf,44
+contract,2025-12-17,DGS 43-IT-MOD,item number,OCMP-25-24662,COL24008,2025-Dec-17-Summary.pdf,43
+amount,2025-12-17,DGS 42-IT-MOD,item number,15000.00,10000.0,2025-Dec-17-Summary.pdf,43
+vendor,2025-12-17,DGS 42-IT-MOD,item number,"NIC USA, Inc., (d/b/a Tyler Technologies)","NIC USA, Inc. dba Tyler Technologies",2025-Dec-17-Summary.pdf,43
+contract,2025-12-17,DGS 42-IT-MOD,item number,CTR015984,COK78193,2025-Dec-17-Summary.pdf,43
+contract,2025-12-17,DGS 41-IT,item number,FY24-DAAPR-002,R00B5600175,2025-Dec-17-Summary.pdf,43
+contract,2025-11-19,DGS 29-IT-MOD,item number,060B2490022,COL21530,2025-Nov-19-Summary.pdf,20
+contract,2025-11-19,DGS 28-IT,item number,LABOR-FY2026-009,P00B6600024,2025-Nov-19-Summary.pdf,20
+vendor,2025-11-19,DGS 27-IT,item number,"Colossus, Inc. dba Interact Public Safety Systems","Colossus, Inc. d/b/a InterAct Public Safety Systems",2025-Nov-19-Summary.pdf,19
+contract,2025-11-05,DGS 55-IT,item number,MDH/OCMP 25-24669,M00B6600396,2025-Nov-5-Summary.pdf,32
+vendor,2025-10-22,DGS 37-IT,item number,Idemia Identity &amp; Security USA LLC,Idemia Identity & Security USA LLC,2025-Oct-22-Summary.pdf,26
+contract,2025-10-01,DGS 41-IT-MOD,item number,MA-2868-0000,J01B8400023,2025-Oct-1-Summary.pdf,25
+contract,2025-10-01,DGS 40-IT-OPT,item number,D38B4600001,D38B6600002,2025-Oct-1-Summary.pdf,25
+contract,2025-10-01,DGS 39-IT,item number,MDH-OCMP-21-18995,M00B6600247,2025-Oct-1-Summary.pdf,24
+contract,2025-10-01,DGS 38-IT,item number,CTR023743,S00B6600010,2025-Oct-1-Summary.pdf,24
+contract,2025-09-10,DGS 35-IT 1.1,vendor and amount,F50B0600039/F50B0600039-50,H00P6600568,2025-Sep-10-Summary.pdf,24
+contract,2025-09-10,DGS 34-IT-MOD,item number,LABOR FY2024-001,COL11760,2025-Sep-10-Summary.pdf,23
+contract,2025-09-10,DGS 32-IT,item number,AG251005,J05B5600003,2025-Sep-10-Summary.pdf,23
+amount,2025-09-10,DGS 31-IT,item number,948894.00,948.0,2025-Sep-10-Summary.pdf,22
+contract,2025-09-10,DGS 31-IT,item number,MD LABOR FY2025-015,P00B6600004,2025-Sep-10-Summary.pdf,22
+vendor,2025-08-27,DGS 70-IT-MOD,item number,"TierPoint Maryland, LLC","TierPointMaryland, LLC",2025-Aug-27-Summary.pdf,45
+contract,2025-08-27,DGS 70-IT-MOD,item number,MDH/OPASS 20-18842,F50B5400007,2025-Aug-27-Summary.pdf,45
+contract,2025-08-27,DGS 54-IT 2.1,vendor and amount,060B2490021/Q00P6600001,RITM0454463,2025-Aug-27-Summary.pdf,40
+contract,2025-08-27,DGS 52-IT-MOD,item number,060B3490012,COL15262,2025-Aug-27-Summary.pdf,38
+contract,2025-08-27,DGS 51-IT-MOD,item number,OTHS-25-020-A1,N00P6600028,2025-Aug-27-Summary.pdf,38
+contract,2025-08-27,DGS 50-IT-MOD,item number,OPS-21-050-IT,COL14271,2025-Aug-27-Summary.pdf,38
+contract,2025-08-27,DGS 49-IT-OPT,item number,01-MDCAPS-19 and MOD 01-MDCAPS-23,R62B4600001,2025-Aug-27-Summary.pdf,38
+contract,2025-08-27,DGS 48-IT,item number,DGS2025-001,001B6600073,2025-Aug-27-Summary.pdf,37
+amount,2025-08-27,DGS 47-IT,item number,1324720.00,2619800.0,2025-Aug-27-Summary.pdf,37
+vendor,2025-08-27,DGS 47-IT,item number,"VersaTech, Inc.",".. Inc. Technologies, LLC",2025-Aug-27-Summary.pdf,37
+vendor,2025-08-27,DGS 46-IT,item number,Multiple Vendors; vTech Solutions Inc.; Navitas Business Consulting Inc.; Nava; ICF Incorporated LLC; Forum One Communication Corporation; Fearless; Bloom Works; 22nd Century Inc.,".. Century Inc. Business Consulting, Solutions, Inc. Incorporated, LLC Works One Communication",2025-Aug-27-Summary.pdf,36
+contract,2025-08-27,DGS 45-IT,item number,OCMP#25-24877,M00B6600227,2025-Aug-27-Summary.pdf,36
+contract,2025-08-06,DGS 35-IT 3.1,vendor and amount,060B2490021/OTHS-25-052-C,N00B6600016,2025-Aug-6-Summary.pdf,30
+contract,2025-08-06,DGS 34-IT-MOD,item number,OCMP-2524662,COL10536,2025-Aug-6-Summary.pdf,29
+contract,2025-08-06,DGS 33-IT,item number,CTR023482,S00B5600081,2025-Aug-6-Summary.pdf,28
+contract,2025-07-16,DGS 37-IT-MOD,item number,R00B2600106,COK89149,2025-Jul-16-Summary.pdf,26
+contract,2025-07-16,DGS 23-IT 4.1,vendor and amount,060B5400007/OTHS-26-008-H,N00B6600017,2025-Jul-16-Summary.pdf,22
+contract,2025-07-16,DGS 23-IT 2.3,vendor and amount,060B2490021/OTHS/OTHS-25-049-C,N00P6600023,2025-Jul-16-Summary.pdf,21
+contract,2025-07-16,DGS 22-IT-MOD,item number,MDH/ OPASS 14-13986,COL02879,2025-Jul-16-Summary.pdf,21
+contract,2025-07-16,DGS 21-IT-MOD,item number,060B8400023,COL03997,2025-Jul-16-Summary.pdf,20
+contract,2025-07-16,DGS 20-IT-OPT,item number,001B2600465,COL03326,2025-Jul-16-Summary.pdf,20
+contract,2025-07-16,DGS 19-IT,item number,C81-2025-1,C81B6600002,2025-Jul-16-Summary.pdf,20
+contract,2025-07-02,DGS 38-IT-MOD,item number,001B3600339,COL02441,2025-Jul-2-Summary.pdf,38
+contract,2025-07-02,DGS 28-IT 1.4,vendor and amount,060B2490021/MDTHK-26-004-C,N00P6600021,2025-Jul-2-Summary.pdf,34
+contract,2025-07-02,DGS 28-IT 1.3,vendor and amount,060B2490021/MDTHK-26-003-C,N00P6600016,2025-Jul-2-Summary.pdf,34
+contract,2025-05-21,DGS 38-IT 1.2,vendor and amount,060B2490023/F50B2600045,COK88115,2025-May-21-Summary.pdf,27
+contract,2025-05-21,DGS 37-IT-OPT,item number,MDH/OPASS OPASS-20-17712,COK85945,2025-May-21-Summary.pdf,26
+contract,2025-05-21,DGS 34-IT,item number,SS-OIT-FY25-012,J02P5600048,2025-May-21-Summary.pdf,25
+vendor,2025-05-07,DGS 54-IT,item number,S&amp;A Systems Inc.,"S&A Systems, Inc.",2025-May-7-Summary.pdf,34
+contract,2025-05-07,DGS 54-IT,item number,BM-25-1003,J05B5600005,2025-May-7-Summary.pdf,34
+contract,2025-05-07,DGS 41-IT-MOD,item number,LABOR FY2021-009,COK43022/COK84,2025-May-7-Summary.pdf,30
+vendor,2025-05-07,DGS 40-IT-MOD,item number,"Public Consulting Group, LLC",".. Network Solutions, Technologies, LLC Consulting Group, LLC Technology Partners, LLC",2025-May-7-Summary.pdf,29
+contract,2025-05-07,DGS 40-IT-MOD,item number,060B2490023,060B0610032/36000,2025-May-7-Summary.pdf,29
+contract,2025-05-07,DGS 39-IT-MOD/OPT,vendor and amount,060B6400030,COK32294,2025-May-7-Summary.pdf,29
+contract,2025-05-07,DGS 38-IT-MOD,item number,ITFY230003,COK82344,2025-May-7-Summary.pdf,28
+contract,2025-05-07,DGS 35-IT,item number,25-IT-HQ-009,V00B5600035,2025-May-7-Summary.pdf,27
+contract,2025-05-07,DGS 34-IT,item number,26-IT-HQ-001,V00B5600027,2025-May-7-Summary.pdf,27
+contract,2025-04-23,DGS 27-IT 1.2,vendor and amount,060B2490023/D38B4600003,COK79679,2025-Apr-23-Summary.pdf,27
+contract,2025-04-23,DGS 27-IT 1.1,vendor and amount,060B2490023/D38B4600010,COK84270,2025-Apr-23-Summary.pdf,27
+amount,2025-04-23,DGS 26-IT-MOD,item number,1426746.50,1500000.0,2025-Apr-23-Summary.pdf,26
+contract,2025-04-02,DGS 28-IT 2.1,vendor and amount,060B2490021/F50P560040,F50P5600404,2025-Apr-2-Summary.pdf,23
+contract,2025-04-02,DGS 26-IT-MOD,item number,S00R2600052,COK82954,2025-Apr-2-Summary.pdf,21
+vendor,2025-03-19,USM 2-S,item number,"Multiple Vendors; Navitas Business Consulting Inc.; Data Networks of America, Inc.; Vantage Point Consulting, Inc.; UVS InfoTech LLC; Strata Information Group; Sierra-Cedar, LLC; Robert Ferrilli LLC; Redpath Consulting Group LLC; OCLC, Inc.; Oakland Consulting Group, Inc.; Infojini, Inc.; Huron Consulting Services LLC; Highstreet IT Solutions LLC; Grant Thornton Advisors LLC; Global Alliant, Inc.; Deloitte Consulting LLP; Creative Information Technology, Inc.; Collaborative Solutions, LLC; Coastal Cloud Holdings LLC; CDW Government LLC; CampusWorks Inc; AVAAP USA LLC; Attain Partners; Accenture LLP; Dexian DISYS; vTech Solution, Inc.; NGEN, LLC; SEI Washington DC LLC; Red River Technology LLC; Planet Technologies, Inc.; Cloudforce; ERP Analysts, Inc.; Cloud for Good; SharperPoint Consulting Group LLC; Moran Technology Consulting Inc.; HTC Global Services Inc.",".. LLP Partners USA LLC Inc. Government LLC for Good Cloud Holdings LLC Solutions, LLC Information Inc. Networks of America, Consulting LLP DISYS Analysts, Inc. Ferrilli LLC Alliant, Inc. Thornton Advisors IT Solutions LLC Global Services Inc. Consulting Services Inc. Technology Inc. Business Consulting LLC Consulting Group, Inc. Technologies, Inc. River Technology LLC Consulting Group Washington DC LLC Consulting LLC LLC Information Group InfoTech LLC Point Consulting, Solution, Inc.",2025-Mar-19-Summary.pdf,13
+amount,2025-03-19,DGS 38-IT 3.6,contract number,601933.00,620320.0,2025-Mar-19-Summary.pdf,34
+amount,2025-03-19,DGS 38-IT 3.3,contract number,232180.00,499750.0,2025-Mar-19-Summary.pdf,34
+vendor,2025-03-19,DGS 38-IT 3.3,contract number,"Communication Electronics, Inc.","CAS Severn, Inc.",2025-Mar-19-Summary.pdf,34
+vendor,2025-02-26,DGS 31-IT,item number,G.R. Patel &amp; Associates,G.R. Patel & Associates Information Order,2025-Feb-26-Summary.pdf,25
+vendor,2025-02-26,DGS 30-IT,item number,"Multiple Vendors; Unisoft Technology Inc; R&amp;B Services, Inc.; IStream Infotech, Inc; BH Zion, LLC; AgileTek, Inc.; Zillion Technologies Inc; vTech Solution, Inc.; VivSoft Technologies LLC; Turning Point Global Solutions, LLC; Stellar IT Solutions; SONA Networks, LLC; Skyline Technology Solutions, LLC; ServBeyond Solutions LLC; Salem Infotech Inc.; Node.Digital; Nava; My3Tech Inc; International Software Systems; Global Alliant, Inc.; GCOM Software LLC; Creative Information Technology, Inc.; aXseum, Inc.; Ark-ISI JV LLC; Ad Hoc LLC; 22nd Century Technologies, Inc.; Uniplus Consultants, Inc.; Tryfacta, Inc.; Serigor, Inc.; Navitas Business Consulting Inc.; IStream Solutions Inc; Interclypse, Inc.; Innosoft Corporation; ExpediteInfoTech, Inc.; Cyquent, Inc; CW Professional Services d/b/a Lochbridge; CoreSphere, LLC; Artisys Corporation – Government Services Division; A&amp;T Systems Claims; 4A Consulting, LLC",".. Consulting, LLC Business Consulting, Inc. Professional Service dba LLC Corporation Inc. Consultants, Inc. Inc. Inc. Corporation - Services Division Systems Claims Solutions, Inc. Inc. Century Technologies, Information Solution, Inc. Inc. Point Global Technologies LLC Technology LLC Solutions LLC Software Alliant, Inc. Technologies, Inc. JV LLC Software LLC Infotech, Inc. IT Solutions Networks, LLC Hoc LLC Inc. Inc. Zion, LLC Technology, Inc. Services, Inc. Infotech, Inc.",2025-Feb-26-Summary.pdf,24
+contract,2025-02-26,DGS 30-IT,item number,BPM043644,001B5600235,2025-Feb-26-Summary.pdf,24
+contract,2025-02-26,DGS 15-IT,item number,CTR021754,001B5600234,2025-Feb-26-Summary.pdf,19
+contract,2025-02-12,DGS 21-IT,item number,MCA250003,D23B5600003,2025-Feb-12-Summary.pdf,24
+amount,2025-02-12,DGS 12-IT,item number,808500.00,1895149.0,2025-Feb-12-Summary.pdf,21
+contract,2025-01-29,DGS 41-IT,item number,MDOTHR2507,J01B5600025,2025-Jan-29-Summary.pdf,25
+contract,2025-01-29,DGS 29-IT 1.4,vendor and amount,R00B1600017,COK76858,2025-Jan-29-Summary.pdf,22
+contract,2025-01-29,DGS 28-IT-MOD,item number,D38B4600001,COK77940,2025-Jan-29-Summary.pdf,21
+contract,2025-01-29,DGS 27-IT,item number,FY25-OSCNP-002,R00B5600041,2025-Jan-29-Summary.pdf,20
+contract,2025-01-29,DGS 25-IT,item number,OCMP-25-24662,M00B5600454,2025-Jan-29-Summary.pdf,20
+contract,2025-01-29,DGS 24-IT,item number,MDOTTS2509,J01B5600028,2025-Jan-29-Summary.pdf,19
+contract,2025-01-29,DGS 23-IT,item number,SS-OIT-FY25-010,J02P5600003,2025-Jan-29-Summary.pdf,19
+contract,2025-01-29,DGS 21-IT,item number,MDH/OCMP 23-19707,M00B5600301,2025-Jan-29-Summary.pdf,19
+contract,2025-01-29,DGS 20-IT,item number,LABOR-FY2024-017,P00B5600043,2025-Jan-29-Summary.pdf,18
+contract,2025-01-08,DGS 31-IT,item number,MDOTTS2508,J01B5600026,2025-Jan-8-Summary.pdf,27
+vendor,2025-01-08,DGS 25-IT 1.2,contract number,"Conduent State &amp; Local Solutions, Inc.","Conduent State & Local Solutions, Inc.",2025-Jan-8-Summary.pdf,25
+contract,2025-01-08,DGS 24-IT-MOD,item number,F50B2600044,COK36585,2025-Jan-8-Summary.pdf,23
+contract,2025-01-08,DGS 23-IT-OPT,item number,001B4600127,COK73296,2025-Jan-8-Summary.pdf,23
+contract,2025-01-08,DGS 22-IT,item number,FY24-OIT-023,R00B5600075,2025-Jan-8-Summary.pdf,23
+amount,2025-01-08,DGS 21-IT,item number,1058776.00,529388.0,2025-Jan-8-Summary.pdf,22
+contract,2025-01-08,DGS 21-IT,item number,F50B4600021,COK76800,2025-Jan-8-Summary.pdf,22
+contract,2022-12-21,MDOT 3-IT,item number,222020-IT,P222020,2022-Dec-21-Summary.pdf,16
+contract,2022-12-21,DGS 30-IT,item number,SDAT-03-22,E50B3600001,2022-Dec-21-Summary.pdf,29
+contract,2022-12-21,DGS 29-IT,item number,BPMO28658,R15P3600241,2022-Dec-21-Summary.pdf,28
+contract,2022-12-21,DGS 27-IT,item number,AGY-23-001-SR,J05B3600003,2022-Dec-21-Summary.pdf,28
+contract,2022-12-21,DGS 25-IT,item number,COM-IT 010123,E00B3600024,2022-Dec-21-Summary.pdf,27
+vendor,2022-12-07,DGS 45-IT-OPTMOD,item number,"A&amp;T Systems, Inc.","A&T Systems, Inc.",2022-Dec-7-Summary.pdf,33
+contract,2022-12-07,DGS 45-IT-OPTMOD,item number,E20B8400002,COJ23146,2022-Dec-7-Summary.pdf,33
+contract,2022-12-07,DGS 44-IT-OPT,item number,CSA/MSDNH-20-001-A1,COJ82217,2022-Dec-7-Summary.pdf,33
+contract,2022-12-07,DGS 43-IT,item number,#19-19-06,F50P26000430,2022-Dec-7-Summary.pdf,33
+contract,2022-12-07,DGS 42-IT,item number,22-23-0093,W00R3600016,2022-Dec-7-Summary.pdf,33
